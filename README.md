@@ -1,0 +1,2 @@
+# video_script_generator
+使用streamlit搭建的ai自动生成视频脚本应用
